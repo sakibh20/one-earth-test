@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/IMG_0679.jpeg
+      url: /images/Cat.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
